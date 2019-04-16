@@ -75,7 +75,7 @@
                 },
 				//display message if no data is found
                 error: function() {
-                    $("#meal-detail-body").append("<p>Couldn't get Nutritionix data.</p>");
+                    $("#meal-detail-body").append("<p>Couldn't get Nutrition data.</p>");
                 }
             });
 			
